@@ -1,4 +1,3 @@
-
 ```
 Assignment 02 Stater
 ├─ css
@@ -45,4 +44,5 @@ Assignment 02 Stater
 │  └─ project_3.png
 └─ index.html
 
+đẩy code lên git từ vs code
 ```
