@@ -1,0 +1,19 @@
+.col-lg-1 {
+  border-top: 1px solid#d4caca;
+}
+.col-lg-11 {
+  border-top: 1px solid#d4caca;
+}
+.col-lg-6 {
+  border-top: 1px solid#d4caca;
+}
+.project {
+  font-weight: bold;
+}
+.inout {
+  font-weight: bold;
+  font-size: 20px;
+}
+h1 {
+  color: rgb(76, 76, 237);
+}
