@@ -44,5 +44,4 @@ Assignment 02 Stater
 │  └─ project_3.png
 └─ index.html
 
-đẩy code lên git từ vs code
-```
+https://lapthanhtruong.github.io/baitap3.github.io/
